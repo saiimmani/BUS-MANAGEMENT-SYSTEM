@@ -88,12 +88,12 @@ public static final String PASSWORD = "yourpassword";
 - Run the main class `BusManagementSystem.java` to start the application.
 - The GUI will open, and you can begin managing buses, passengers, and bookings.
 
-## 📷 Screenshots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/000fa21c-38ca-42a5-82a4-d2efd1f0b0fa)
 
 
-## 🛠️ Key Features
+## Key Features
 
 ### **Java Swing GUI**
 
