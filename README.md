@@ -3,7 +3,7 @@
 
 A comprehensive and user-friendly **Bus Management System** developed using **Java Swing** for the graphical user interface (GUI) and integrated with **MySQL** for database management. This system allows for efficient management of bus schedules, routes, and passenger information, aiming to improve the overall functionality and ease of use for administrators.
 
-## 🚀 Features
+## Features
 
 - **Bus Route Management**: Add, update, delete, and view bus routes, including bus details like route number, source, destination, and timings.
 - **Passenger Management**: Manage passenger information with an intuitive interface to add, update, and remove passenger details.
@@ -11,14 +11,14 @@ A comprehensive and user-friendly **Bus Management System** developed using **Ja
 - **Real-time Search**: Search for buses based on routes, timings, or availability.
 - **MySQL Database Integration**: All data such as bus schedules, passenger details, and bookings are securely stored in a MySQL database.
 
-## 🔧 Technology Stack
+## Technology Stack
 
 - **Frontend**: Java Swing
 - **Backend**: Java
 - **Database**: MySQL
 - **IDE**: IntelliJ IDEA, Eclipse, or any Java IDE
 
-## ⚙️ Getting Started
+## Getting Started
 
 Follow the steps below to set up the project locally.
 
@@ -111,17 +111,17 @@ public static final String PASSWORD = "yourpassword";
 - Simple, easy-to-use GUI that even non-technical users can navigate with ease.
 - Features like automatic error handling and input validation to ensure smooth operations.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Contributors
+## Contributors
 
 - [SHAIK TASLEEM KHAN](https://github.com/Tasleemkhan7)
 - [IMMANI RAMA VENKATA SRI SAI](https://github.com/saiimmani)
 - [KALEPU NEERAJ TEJA](https://github.com/neerajteja17)
 
-## 🤝 Support
+## Support
 
 If you encounter any issues or need assistance with the project, feel free to open an issue in the repository or reach out to the contributors.
 
